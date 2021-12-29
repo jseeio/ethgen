@@ -7,7 +7,7 @@
     "autorun": true
   },
 	"design": {
-		"grid": [4, 8]
+		"grid": [2, 10]
 	},
   "outputs": [
     { "name": "Address", "type": "code", "filename": "eth.pub" },
